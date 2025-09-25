@@ -1,0 +1,50 @@
+ <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 400px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">What information should I have ready when I call to order a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">To help us provide the fastest and most accurate quote, it's helpful to have a general idea of the type of project you're working on (e.g., renovation, cleanout), the main types of debris you'll be disposing of, and the address for the delivery location. This information helps us recommend the perfect rolloff size for your needs.</p>
+                <h4 class="template4 palooma" style="font-size:large;">What are some of the most common "hidden costs" to watch for with dumpster rentals?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">With some roll off companies, you need to watch out for vague fees like "environmental fees" or "fuel surcharges." At Big Buck, we believe in transparent pricing. The main costs to be aware of are overage charges for exceeding the weight limit and daily fees for keeping the rental longer than the agreed-upon period. We outline all of this clearly in our rental agreement.</p>
+                <h4 class="template4 palooma" style="font-size:large;">How far in advance should I book my dumpster rental, especially during busy seasons?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">During peak seasons like spring and summer, demand for rolloff dumpsters for rent is high. We recommend booking your rental at least 3-5 days in advance to ensure you get the size you need on your desired date. For the rest of the year, 24-48 hours' notice is typically sufficient.</p>
+                <h4 class="template4 palooma" style="font-size:large;">Is there an extra charge for a Saturday delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">No. We believe that projects don't just happen from Monday to Friday. We proudly offer our standard, competitive pricing for all deliveries and pickups scheduled during our normal Saturday business hours.</p>
+                <h4 class="template4 palooma" style="font-size:large;">I have a lot of scrap metal. Do you pay for it or is there still a hauling fee?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">While we do not purchase scrap metal directly, we can provide a dedicated roll off container for it. Depending on the volume and current market rates for metal, we can often offer a significantly reduced hauling fee or, in some cases, a no-cost haul for clean-loaded, high-value scrap. Please call us to discuss your specific material.</p>
+                <h4 class="template4 palooma" style="font-size:large;">For a wedding at a historic venue, how do you protect the property?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">We take property protection very seriously. The professional standard is to have the client or venue provide wooden planks or sheets of plywood to be placed on the ground before the dumpster is delivered. This creates a simple but effective barrier to protect any sensitive surfaces.</p>
+                <div class="callalooma mx-auto"><a href="tel:820-218-6680">Click Here To Call Us (820) 218-6680</a></div>
+            </div>
+        </div>
+        </section>
+       </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
